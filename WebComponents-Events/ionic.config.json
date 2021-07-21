@@ -1,0 +1,7 @@
+{
+  "name": "InAppBroserOnMessage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
